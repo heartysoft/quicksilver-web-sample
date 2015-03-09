@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="MyWebsite" />
+  <setParameter name="My Message" value="Hello, from QA" />
+  <setParameter name="DefaultConnection-Web.config Connection String" value="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-MyWebsite-20150308103027.mdf;Initial Catalog=aspnet-MyWebsite-20150308103027;Integrated Security=True" />
+</parameters>
